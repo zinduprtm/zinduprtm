@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pramuditya Zindu Pratama
 - 👀 I’m interested in machine learning and data scientce
 - 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any project that interest with DS or ML
+- 📫 How to reach me in Indonesia
 
 <!---
 zinduprtm/zinduprtm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
