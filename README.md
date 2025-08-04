@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pramuditya Zindu Pratama
 - 👀 I’m interested in machine learning and data scientce
-- 🌱 I’m currently learning java and python
+- 🌱 I’m currently learning Data Analysis, Data Science, ML, DL, and AI
 - 💞️ I’m looking to collaborate on any project that interest with DS or ML
 - 📫 How to reach me in Indonesia
 
