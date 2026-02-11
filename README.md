@@ -27,13 +27,13 @@
 
 ### Stacks 
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" /> -->
 
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" />
