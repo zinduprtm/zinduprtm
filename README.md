@@ -11,9 +11,9 @@
 
 ---
 <!--Top Lang-->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinduprtm&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
-</p>
+</p> -->
 
 
 ### Langs 
@@ -27,8 +27,8 @@
 
 ### Stacks 
 <p align="center">
-  <!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" />
@@ -44,9 +44,8 @@
 <p align="center">
   <a href="mailto:zindupratama15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/zindu"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
-  <a href="https://medium.com/@fathurwithyou"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" /></a>
+  <!-- <a href="https://medium.com/@fathurwithyou"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" /></a> -->
   <a href="https://www.kaggle.com/zinduprtm"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white" /></a>
-  <a href="https://leetcode.com/zinduprtm/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode">
+  <a href="https://leetcode.com/zinduprtm/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </p>
