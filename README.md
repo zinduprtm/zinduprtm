@@ -6,7 +6,7 @@
 
 <p align='center'>  
   Welcome to my GitHub profile! Now i still learning to become an <strong>AI Engineer</strong> with a passion for <strong>Machine Learning</strong> and <strong>Data Science</strong>.
-  Currently, I'm an Informatics Engineering sixth-semester student.
+  Currently, I'm an Informatics Engineering final year student.
 </p>
 
 ---
